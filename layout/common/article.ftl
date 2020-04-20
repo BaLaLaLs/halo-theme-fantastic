@@ -12,7 +12,7 @@
                         </a>
                     <#else>
                         <span class="image is-7by1">
-                    <img class="thumbnail" src="${post.thumbnail!}" alt="${post.title!}" style="left: 10%;">
+                    <img class="thumbnail" src="${post.thumbnail!}" alt="${post.title!}">
                 </span>
                     </#if>
                 </div>
